@@ -1,4 +1,4 @@
-[<img alt="Wave2Web Hack" width="1000px" src="../docs/img/wave2web-banner.png" />](https://www.wricitiesindia.org/content/wave2web-hack)
+[<img alt="Wave2Web Hack" width="1000px" src="img/wave2web-banner.png" />](https://www.wricitiesindia.org/content/wave2web-hack)
 
 # Wave2Web: H2Ox
 This github org contains all the repos associated with H2Ox's winning submission to the Wave2Web Hack and the associated draft publication [Wave2Web: Near-real-time reservoir volume prediction for water security in India]().
@@ -8,7 +8,7 @@ The objective of the hackathon was to predict, up to 90 days in the future, the 
 
 **h2ox scope basin networks and reservoirs**
 
-<img alt="H2Ox Context" width="400px" src="../docs/img/context.png" />
+<img alt="H2Ox Context" width="400px" src="img/context.png" />
 
 The H2Ox team is [Lucas Kruitwagen](https://github.com/Lkruitwagen), [Chris Arderne](https://github.com/carderne), [Tommy Lees](https://github.com/tommylees112), and [Lisa Thalheimer](https://github.com/geoliz).
 
@@ -32,7 +32,7 @@ The repos in this organisation contain everything needed to fully reproduce the 
 The figure below shows the flow of data through all the services.
 
 **h2ox system architecture**
-<img alt="H2Ox System Architecture" width="1000px" src="../docs/img/system-arch.png" />
+<img alt="H2Ox System Architecture" width="1000px" src="img/system-arch.png" />
 
 To just work with the reduced dataframes used in [h2ox-ai](https://github.com/H2Oxford/h2ox-ai), these are available at [gs://oxeo-public/wave2web](https://console.cloud.google.com/storage/browser/oxeo-public/wave2web). Further access to the zarr archives and bigquery tables can be provided on request.
 
