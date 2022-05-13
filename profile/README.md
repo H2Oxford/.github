@@ -32,7 +32,7 @@ The repos in this organisation contain everything needed to fully reproduce the 
 The figure below shows the flow of data through all the services.
 
 **h2ox system architecture**
-<img alt="H2Ox System Architecture" width="1000px" src="https://github.com/H2Oxford/.github/raw/main/profile/system-arch.png" />
+<img alt="H2Ox System Architecture" width="1000px" src="https://github.com/H2Oxford/.github/raw/main/profile/img/system-arch.png" />
 
 To just work with the reduced dataframes used in [h2ox-ai](https://github.com/H2Oxford/h2ox-ai), these are available at [gs://oxeo-public/wave2web](https://console.cloud.google.com/storage/browser/oxeo-public/wave2web). Further access to the zarr archives and bigquery tables can be provided on request.
 
