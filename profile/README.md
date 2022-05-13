@@ -7,6 +7,7 @@ The Wave2Web hackathon, organised by the World Resources Institute and sponsored
 The objective of the hackathon was to predict, up to 90 days in the future, the water availability at 4 key reservoirs in the Kaveri basin to the West of Bengaluru. After the hackathon, the H2Ox team took the challenge further and is now providing near-real-time predictions for 70 reservoirs accross India.
 
 **h2ox scope basin networks and reservoirs**
+
 <img alt="H2Ox Context" width="400px" src="../docs/img/context.png" />
 
 The H2Ox team is [Lucas Kruitwagen](https://github.com/Lkruitwagen), [Chris Arderne](https://github.com/carderne), [Tommy Lees](https://github.com/tommylees112), and [Lisa Thalheimer](https://github.com/geoliz).
