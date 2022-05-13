@@ -1,4 +1,4 @@
-[<img alt="Wave2Web Hack" width="800px" src="docs/img/wave2web-banner.png" />](https://www.wricitiesindia.org/content/wave2web-hack)
+[<img alt="Wave2Web Hack" width="800px" src="../docs/img/wave2web-banner.png" />](https://www.wricitiesindia.org/content/wave2web-hack)
 
 # Wave2Web: H2Ox
 This github org contains all the repos associated with H2Ox's winning submission to the Wave2Web Hack and the associated draft publication [Wave2Web: Near-real-time reservoir volume prediction for water security in India]().
